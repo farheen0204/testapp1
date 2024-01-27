@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a>git merge git merge master
+        </a>
       </header>
     </div>
   );
